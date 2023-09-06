@@ -6,7 +6,7 @@ matplotlib
 scikit-image
 tensorflow==1.15.0
 keras==2.0.8
-opencv-python
-h5py
+opencv-python==4.5.3.56
+h5py==2.10.0
 imgaug
 IPython[all]
